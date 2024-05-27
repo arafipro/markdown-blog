@@ -1,3 +1,9 @@
+import MarkdownPreview from "./_components/markdown-preview";
+
 export default function Home() {
-  return <main className="">Home</main>;
+  return (
+    <main className="">
+      <MarkdownPreview />
+    </main>
+  );
 }
