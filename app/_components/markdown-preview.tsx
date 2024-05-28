@@ -1,13 +1,11 @@
-import { md } from "@/constants/md";
 import "highlight.js/styles/github.css";
 import Markdown from "react-markdown";
 import rehypeHighlight from "rehype-highlight";
 import remarkGfm from "remark-gfm";
 
-export default function MarkdownPreview() {
+export default function MarkdownPreview({ content }: { content: string }) {
   return (
     <div>
-      <div>{md}</div>
       <Markdown
         className="prose"
         remarkPlugins={[remarkGfm]}
@@ -23,7 +21,7 @@ export default function MarkdownPreview() {
           },
         }}
       >
-        {md}
+        {content}
       </Markdown>
     </div>
   );
