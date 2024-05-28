@@ -13,5 +13,5 @@ export default function Home() {
   );
 }
 ~~~
-http:localhost:3000/
+http://localhost:3000/
 `
