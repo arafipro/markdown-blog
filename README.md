@@ -1,8 +1,8 @@
-# 【react-markdown】Markdown-HTML 変換コンポーネントを15分で作る
+# 【react-markdown】ブログアプリで使える　Markdown-HTML変換コンポーネントを作る
 
 ## YouTube
 
-[!["【react-markdown】Markdown-HTML 変換コンポーネントを15分で作る"](https://i.ytimg.com/vi/yMnMdrgLIDw/maxresdefault.jpg)](https://youtu.be/yMnMdrgLIDw)
+[!["【react-markdown】ブログアプリで使える　Markdown-HTML変換コンポーネントを作る"](https://i.ytimg.com/vi/yMnMdrgLIDw/maxresdefault.jpg)](https://youtu.be/yMnMdrgLIDw)
 
 ## 技術選定
 
